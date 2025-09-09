@@ -30,7 +30,7 @@ python app.py
 2. Upload this repo's files.  
 3. In Space **Settings → Variables and secrets**, add:  
    - `HUGGINGFACEHUB_API_TOKEN` = your HF token  
-   - `HF_MODEL` = e.g. `tiiuae/falcon-7b-instruct`  
+   - `HF_MODEL` = `mistralai/Mistral-7B-Instruct-v0.2`  
 4. Restart the Space.  
 
 Now you have your **Clinical Trials chatbot** online!
