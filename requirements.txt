@@ -1,0 +1,5 @@
+gradio
+sentence-transformers
+requests
+PyPDF2
+numpy
