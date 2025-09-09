@@ -11,7 +11,7 @@ The bot retrieves context from the documents and generates answers using an open
 
 [![Deploy to Spaces](https://img.shields.io/badge/Deploy%20to%20Hugging%20Face%20Spaces-blue)](https://huggingface.co/new-space?template=your-username/clinical-trials-chatbot)
 
-👉 Replace `your-username` with your GitHub username in the link above.
+👉 Replace `essprasad` with your GitHub username in the link above.
 
 ---
 
